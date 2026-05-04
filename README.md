@@ -80,10 +80,4 @@ nc localhost 3000
 ## 📝 License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
-### Pro-Tip for your GitHub:
-Once you've uploaded this, click the "About" (gear icon) on the right side of your GitHub repo page and add these tags: `golang`, `tcp-server`, `concurrency`, `network-programming`, and `backend`. This will make your project much easier for recruiters or other developers to find! 
-
 Is the code running exactly how you want it on your local machine?
